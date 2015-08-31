@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.igv.app"
+        versionCode = "1" 
+        version   = "1.0.0">
+
+        <name>Calculadora de IGV</name>
+
+        <description>
+            Aplicación para calcular el IGV.
+        </description>
+
+        <author href="http://www.cip.org.pe" email="webmaster@cip.org.pe">
+            CIP - CN / Área de Informática.
+        </author>
+        
+        <icon src="img/logo.png" />
+        <gap:plugin name="org.apache.cordova.inappbrowser" />
+        <preference name="permissions" value="none"/>
+        <preference name="phonegap-version" value="3.7.0" />
+        
+    </widget>
