@@ -5,13 +5,13 @@
         versionCode = "1" 
         version   = "1.0.0">
 
-        <name>Calculadora de IGV</name>
+        <name>Calculador de IGV</name>
 
         <description>
             Aplicación para calcular el IGV.
         </description>
 
-        <author href="http://www.cip.org.pe" email="webmaster@cip.org.pe">
+        <author href="http://john.orrego.org" email="john@orrego.org">
             CIP - CN / Área de Informática.
         </author>
         
